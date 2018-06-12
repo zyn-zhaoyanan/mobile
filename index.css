@@ -1,0 +1,207 @@
+@media screen and (min-width: 320px) {
+    html {
+        font-size: calc(320 / 750 * 100px)
+    }
+}
+
+@media screen and (min-width: 360px) {
+    html {
+        font-size: calc(360 / 750 * 100px)
+    }
+}
+
+@media screen and (min-width: 375px) {
+    html {
+        font-size: calc(375 / 750 * 100px)
+    }
+}
+
+@media screen and (min-width: 414px) {
+    html {
+        font-size: calc(414 / 750 * 100px)
+    }
+}
+@font-face {font-family: "iconfont";
+    src: url('/font/iconfont.eot?t=1528797367329'); /* IE9*/
+    src: url('/font/iconfont.eot?t=1528797367329#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('data:application/x-font-woff;charset=utf-8;base64,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') format('woff'),
+    url('/font/iconfont.ttf?t=1528797367329') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+    url('/font/iconfont.svg?t=1528797367329#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+    font-family:"iconfont" !important;
+    font-size:16px;
+    font-style:normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul, ol {
+    list-style: none;
+
+}
+
+.title-bar {
+    width: 100%;
+    height: 0.74rem;
+    line-height: 0.88rem;
+    text-align: center;
+    font-size: 0.33rem;
+    font-weight: bold;
+    position: relative;
+
+}
+
+.back {
+    position: absolute;
+    left: .2rem;
+    top: 0;
+    padding-left: 0.4rem;
+    font-size: .3rem;
+    background: url("back.png") no-repeat left center;
+    background-size: 0.42rem;
+    color: #007aff;
+
+
+}
+
+.search-box {
+    height: 0.72rem;
+    width: 100%;
+    margin-top: 0.2rem;
+
+    margin-bottom: 0.23rem;
+}
+
+/*.search-box input{*/
+/*background: #e4e4e6 url("find.png") no-repeat 0.1rem center /0.28rem 0.3rem;*/
+/*}*/
+.search {
+    display: block;
+    height: 100%;
+    width: 6.87rem;
+    margin: 0 auto;
+    border-radius: 0.45rem;
+    padding-left: 0.5rem;
+    background: #e4e4e6 url("find.png") no-repeat 0.1rem center /0.28rem 0.3rem;
+
+}
+
+.location {
+    width: 100%;
+    height: 0.79rem;
+    padding-left: 0.31rem;
+    background-color: #f4f4f4;
+    font-size: 15px;
+    line-height: 0.82rem;
+}
+
+.address-list {
+    width: 100%;
+    /*auto就是有多少能容纳多少*/
+    height: auto;
+
+}
+
+.address-list li {
+    width: 6.92rem;
+    height: 2.53rem;
+
+    margin: 0 auto;
+    border-bottom: 1px  solid #c8c7cc;
+
+}
+
+.address-list a {
+    display: block;
+    padding-top: 0.48rem;
+    text-decoration: none;
+
+}
+
+.picture img {
+    width: 2rem;
+    height: 1.57rem;
+    float: left;
+    margin-right: 0.34rem;
+}
+
+.address-list .info {
+    width: 2.95rem;
+    height: 1.38rem;
+
+    float: left;
+}
+
+.address-list .name {
+    font-size: 14px;
+    color: black;
+}
+
+.address-list .province {
+    font-size: 12px;
+    color: black;
+
+}
+
+.address-list .time {
+    font-size: 12px;
+    color: black;
+}
+
+.icon {
+    width: 0.15rem;
+    height: 0.3rem;
+    margin-left: 1.1rem;
+    float: left;
+    padding-top: 0.6rem;
+}
+
+.icon img {
+    display: block;
+    width: 0.16rem;
+    height: 0.26rem;
+}
+.index{
+    position: absolute;
+    right:0.08rem;
+    top:3.17rem;
+    font-size: 8px;
+    color: #007aff;
+    font-weight: bold;
+    line-height: 0.28rem;
+}
+.foot{
+    /*fixed是固定的意思*/
+    position: fixed;
+    bottom:0;
+    left: 0;
+    width:7.5rem;
+    height: 0.98rem;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 0.1rem;
+    color: #a0a0a0;
+    background-color: #f4f4f5;
+
+
+}
+.foot .pic{
+    font-family: iconfont;
+    font-size: 22px;
+
+}
+.foot li.active{
+    color: #007aff;
+}
+div.title{
+    font-size: 14px;
+}
